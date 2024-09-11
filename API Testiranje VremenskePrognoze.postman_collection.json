@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "e7d109fc-59de-42fc-9b6e-8999befc56ed",
+		"name": "API Testiranje VremenskePrognoze",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38268933"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
